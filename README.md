@@ -7,6 +7,9 @@ As the aviation industry is regularly  subject to unpredictable market condition
 Geographical locations and weather conditions among other forces of nature, also, can introduce operational hazards that impact flight safety and perfomance.
 
 In this analysis, I collected data from kaggle to visually represent these factors.
+#### For a non-technical presentation of the data refer to this [link](https://github.com/felix-musau/phase_1_project/blob/main/presentation.pdf)
+#### For a Tableau presentation, refer to this [link](https://public.tableau.com/app/profile/felix.musau3046/viz/Aviation_analysis_17507632970630/Dashboard1)
+
 
 ### Objectives
 

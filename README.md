@@ -22,12 +22,18 @@ In this analysis, I collected data from kaggle to visually represent these facto
 
 Accidents are mostly inevittable. However, identifying patterns that led to these accidents in the past may help tailor our decission as we dive into this industry.
 
-1 As a team aspiring to venture into the aviation industry, we are curious about:
+ As a team aspiring to venture into the aviation industry, we are curious about:
+ 
 2 Is air as a mode of transport becoming safer with time
+
 3 What is the effect of weather conditions to aircraft accidents
+
 4 Do varying engine types present different levels of risk
+
 5 Is there a correlation between an aircraft make and its damage
+
 6 Effect of flight purpose to accidents
+
 7 What category of an aircraft is safer
 
 ## Data Understanding
